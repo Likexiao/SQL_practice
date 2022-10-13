@@ -1,0 +1,1 @@
+select SId,SUM(SC.score) as sum from SC GROUP BY SC.SId order by sum desc

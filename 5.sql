@@ -1,0 +1,1 @@
+select Tname from Teacher WHERE Tname like '李%'
